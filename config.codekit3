@@ -8554,6 +8554,16 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/assets\/images\/util\/vector-8.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/images\/util\/vector-8.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/assets\/scripts\/js\/custom.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -9346,6 +9356,22 @@
       "oAP" : "\/parts\/content\/get-in-touch.php",
       "oF" : 0
     },
+    "\/parts\/content\/page-portfolio.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/parts\/content\/page-portfolio.php",
+      "oF" : 0
+    },
+    "\/parts\/content\/page-services.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/parts\/content\/page-services.php",
+      "oF" : 0
+    },
     "\/parts\/content\/summary-about-us.php" : {
       "cB" : 0,
       "ft" : 8192,
@@ -9376,6 +9402,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/parts\/header\/page-header.php",
+      "oF" : 0
+    },
+    "\/parts\/header\/page-hero.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/parts\/header\/page-hero.php",
       "oF" : 0
     },
     "\/parts\/loop\/loop-page.php" : {
