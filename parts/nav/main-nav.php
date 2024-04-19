@@ -8,7 +8,7 @@
 <div class="off-canvas-content" data-off-canvas-content>
 
     <div class="off-canvas-content bg-v-5" data-off-canvas-content>
-    <header class="header grid-container" role="banner">
+    <header class="header grid-container padding-bottom-1" role="banner">
         <div class="">
             <div class="grid-x align-middle header-bar">
                 <div class="large-2 medium-6 small-6 cell">
