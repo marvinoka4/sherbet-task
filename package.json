@@ -1,29 +1,29 @@
 {
-  "name" : "codekit-project",
-  "description" : "CodeKit created this starter package.json file. You should customize it appropriately.",
-  "scripts" : {
-
-  },
   "devDependencies" : {
 
   },
-  "author" : "",
   "license" : "UNLICENSED",
   "version" : "1.0.0",
+  "scripts" : {
+
+  },
   "optionalDependencies" : {
 
+  },
+  "dependencies" : {
+    "hamburgers" : "^1.1.3",
+    "lightgallery" : "^2.4.0",
+    "rellax" : "^1.12.1",
+    "what-input" : "^5.2.12",
+    "foundation-sites" : "^6.7.4",
+    "swiper" : "^11.1.1",
+    "motion-ui" : "^2.0.3",
+    "jquery" : "^3.5.1"
   },
   "repository" : {
 
   },
-  "dependencies" : {
-    "motion-ui" : "^2.0.3",
-    "foundation-sites" : "^6.7.4",
-    "jquery" : "^3.5.1",
-    "rellax" : "^1.12.1",
-    "swiper" : "^10.0.3",
-    "what-input" : "^5.2.12",
-    "lightgallery" : "^2.4.0",
-    "hamburgers" : "^1.1.3"
-  }
+  "name" : "codekit-project",
+  "author" : "",
+  "description" : "CodeKit created this starter package.json file. You should customize it appropriately."
 }

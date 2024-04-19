@@ -15,6 +15,7 @@
       <img class="swiper-slide" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/picture-2.jpg" alt="Image 1">
       <img class="swiper-slide" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/picture-13.jpg" alt="Image 2">
       <img class="swiper-slide" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/picture-2.jpg" alt="Image 1">
+      <img class="swiper-slide" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/photos/picture-13.jpg" alt="Image 2">
 
     </div>
 

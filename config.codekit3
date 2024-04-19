@@ -9587,8 +9587,8 @@
     "creationDate" : 576149231.35316896,
     "displayValue" : "SHERBET",
     "displayValueWasSetByUser" : 1,
-    "iconImageName" : "\/assets\/images\/favicon\/apple-touch-icon.png",
-    "iconImageWasSetByUser" : 0
+    "iconImageName" : "brackets_orange",
+    "iconImageWasSetByUser" : 1
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
