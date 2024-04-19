@@ -1,0 +1,71 @@
+.icon-nav-item .icon-nav-link {
+  color: get-color(secondary);
+  font-size: rem-calc(12px);
+}
+.icon-nav-link {
+  color: get-color(secondary);
+  &:hover {
+    color: get-color(primary);
+  }
+}
+.nav-item .nav-link {
+  color: black;
+  font-size: rem-calc(12px);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+
+}
+.nav-link {
+  color: get-color(primary);
+  &:hover {
+    color: get-color(secondary);
+  }
+}
+.nav-link a {
+  padding: 0.5rem 1rem;
+}
+.nav-link[aria-current="page"] {
+  background: transparent;
+  color: get-color(secondary);
+}
+
+.nav-cta {
+  border-radius: $nav-radius;
+  font-size: rem-calc(12px);
+  font-family: Poppins, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  &:hover {
+    background-color: get-color(secondary) !important;
+  }
+}
+
+.dropdown.menu > li > a {
+  padding: 0.5rem 1rem;
+}
+.offcanvas-footer {
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.div-100 {
+  width: 100%;
+}
+.slight-padding {
+  padding: 0.5rem 0;
+}
+
+header .menu li a {
+  color: black;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 25px;
+}
+
+.menu .active > a {
+  background: transparent;
+  color: black;
+}

@@ -1,0 +1,90 @@
+/*********************
+HEADER STYLES
+*********************/
+.header-page {
+  color: black;
+  background-color: $primary-color;
+  margin-bottom: $global-spacing;
+  nav a {
+    color: black;
+  }
+}
+header.header {
+  .header-bar {
+    border-radius: 0 0 25px 25px;
+    position: relative;
+    background: white;
+    padding: 10px 20px;
+
+    @include breakpoint(medium) {
+      padding: 10px 20px;
+    }
+  }
+  .top-bar {
+    padding: 5px 20px;
+    font-size: rem-calc(12px);
+    position: relative;
+    color: black;
+    @include breakpoint(medium) {
+      padding: 5px 30px;
+    }
+  }
+  .dropdown .is-dropdown-submenu a {
+    line-height: 1.5;
+    font-weight: normal;
+    font-family: $body-font-family;
+    color: get-color(dark-grey);
+    border-radius: 4px;
+    &:hover {
+      background: get-color(secondary);
+      color: black;
+    }
+  }
+  .dropdown .is-dropdown-submenu li {
+    &:first-child a {
+      border-top:none;
+    }
+    a {
+      border-top:1px solid get-color(light-grey);
+    }
+  }
+  .dropdown .submenu li.active a {
+    color: $anchor-color;
+    &:hover {
+      color: black;
+    }
+  }
+  .dropdown .submenu {
+    @include box-shadow;
+    border-radius: 4px;
+  }
+}
+.header-page {
+  color: black;
+  background-color: $primary-color;
+  margin-bottom: $global-spacing;
+  nav a {
+    color: black;
+  }
+}
+
+$animated-search-form-initial-width: 10rem;
+$animated-search-form-transition-duration: 0.5s;
+.animated-search-form[type=search] {
+  width: $animated-search-form-initial-width;
+  border: 0.125rem solid get-color(light-grey);
+  box-shadow: 0 0 3.125rem rgba(0,0,0, 0.18);
+  border-radius: 50px !important;
+  background-image: url("data:image/svg+xml,%3Csvg width='50' height='50' viewBox='0 0 50 50' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M18 22a6 6 0 1 0 0-12 6 6 0 0 0 0 12zm6.321-1.096l5.386 5.39a1 1 0 1 1-1.414 1.413l-5.386-5.388a8 8 0 1 1 1.414-1.415z' fill='#ccc' fill-rule='nonzero'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  font-size: $small-font-size;
+  padding: 0.75rem 2.5rem;
+  transition: width $animated-search-form-transition-duration ease-in-out;
+
+  &:focus {
+    width: 100%;
+  }
+}
+
+
+

@@ -1,0 +1,27 @@
+/*********************
+FOOTER STYLES
+*********************/
+.footer {
+	clear: both;
+	margin-top: 2em;
+	background: get-color(light-grey);
+}
+
+.text-small {
+	font-size: $small-font-size;
+}
+
+.footer-item .footer-link {
+	color: get-color(light);
+	font-family: $header-font-family;
+	margin-bottom: 0;
+}
+
+.footer-link {
+	color: get-color(light);
+	margin-bottom: 0;
+	&:hover {
+		color: get-color(secondary);
+		margin-bottom: 0;
+	}
+}
