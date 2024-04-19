@@ -22,10 +22,10 @@
     <div class="large-12 medium-12 small-12 cell padding-right-side padding-vertical-2">
       <div class="grid-x align-right text-right">
         <a class="large-1 medium-2 small-2 cell swiper-button-prev">
-          <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/util/vector-9.svg" width="50" alt="Sherbet Donkey"/>
+          <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/util/vector-9.svg" width="50" alt="Previous"/>
         </a>
         <a class="large-1 medium-2 small-2 cell swiper-button-next">
-          <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/util/vector-10.svg" width="50" alt="Sherbet Donkey"/>
+          <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/util/vector-10.svg" width="50" alt="Next"/>
         </a>
       </div>
       <div class="swiper-pagination"></div>

@@ -9412,20 +9412,20 @@
       "oAP" : "\/parts\/content\/get-in-touch.php",
       "oF" : 0
     },
-    "\/parts\/content\/page-portfolio.php" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/parts\/content\/page-portfolio.php",
-      "oF" : 0
-    },
     "\/parts\/content\/page-services.php" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/parts\/content\/page-services.php",
+      "oF" : 0
+    },
+    "\/parts\/content\/portfolio-slider.php" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/parts\/content\/portfolio-slider.php",
       "oF" : 0
     },
     "\/parts\/content\/summary-about-us.php" : {
