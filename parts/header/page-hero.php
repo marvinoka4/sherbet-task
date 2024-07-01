@@ -7,7 +7,7 @@
                 <h1 style="line-height: 120%"><span style="font-weight: 400; color:white">Your one-stop digital <br> </span><span style="font-weight: 700; color:#104F5A">marketing solution</span></h1>
                 <div class="grid-x align-left text-left">
                     <div class="large-7 medium-7 small-12 cell">
-                        <h5 class="padding-vertical-2"><span style="font-weight: 400">We are Sherbet Donkey Media, and we are here to help you stand out from your competition?</span></h5>
+                        <h5 class="padding-vertical-2"><span style="font-weight: 400">We are Sherbet Donkey Media, and we are here to help you stand out from your competition.</span></h5>
                     </div>
                 </div>
             </div>
